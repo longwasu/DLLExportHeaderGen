@@ -18,7 +18,7 @@ python DLLExportHeaderGen.py <dll_path>
 
 ## Example Usage
 ```sh
-python main.py "C:\Windows\SysWOW64\UiAutomationCore.dll"
+python DLLExportHeaderGen.py "C:\Windows\SysWOW64\UiAutomationCore.dll"
 ```
 
 
